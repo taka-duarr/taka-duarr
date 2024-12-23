@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 hi I’m Firman<br>🔭 I’m currently study on Adhi Tama Institute of technology<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about <br>⚡ Fun fact
+👯 hi I’m Firman<br>🔭 I’m currently study on Adhi Tama Institute of technology<br>🤝 I’m looking for help with collaborating on programming projects and improving my skills in software development<br>🌱 I’m currently learning Java, Python, PHP, and web development with Tailwind CSS<br>💬 Ask me about how to get some money <br>⚡ Fun fact : im a beginner in programming
 
 
 ## 🌐 Socials:
